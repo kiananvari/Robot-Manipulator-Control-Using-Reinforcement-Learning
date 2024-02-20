@@ -10,8 +10,7 @@ To facilitate the learning process, curriculum learning is employed. The trainin
 
 # Documentation
 You can see the description of the implementation method in the following file:
-[Click Me](https://github.com/kiananvari/HMMEvaluationKit/raw/main/Documentation.pdf)
+[Click Me](https://github.com/kiananvari/Robot-Manipulator-Control-Using-Reinforcement-Learning-/raw/main/Documentation-EN.pdf)
 
 # Results
-![App Screenshot](https://raw.githubusercontent.com/kiananvari/HMMEvaluationKit/main/Results/1.png)
-![App Screenshot](https://raw.githubusercontent.com/kiananvari/HMMEvaluationKit/main/Results/2.png)
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/Robot-Manipulator-Control-Using-Reinforcement-Learning-/main/Test.gif)
